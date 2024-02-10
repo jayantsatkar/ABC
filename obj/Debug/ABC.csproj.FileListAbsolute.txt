@@ -1,0 +1,12 @@
+C:\Jayant\ABC\ABC\bin\Debug\ABC.exe.config
+C:\Jayant\ABC\ABC\bin\Debug\ABC.exe
+C:\Jayant\ABC\ABC\bin\Debug\ABC.pdb
+C:\Jayant\ABC\ABC\obj\Debug\ABC.csproj.AssemblyReference.cache
+C:\Jayant\ABC\ABC\obj\Debug\ABC.Properties.Resources.resources
+C:\Jayant\ABC\ABC\obj\Debug\ABC.csproj.GenerateResource.cache
+C:\Jayant\ABC\ABC\obj\Debug\ABC.csproj.CoreCompileInputs.cache
+C:\Jayant\ABC\ABC\obj\Debug\ABC.exe
+C:\Jayant\ABC\ABC\obj\Debug\ABC.pdb
+C:\Jayant\ABC\ABC\bin\Debug\log4net.dll
+C:\Jayant\ABC\ABC\bin\Debug\log4net.xml
+C:\Jayant\ABC\ABC\obj\Debug\ABC.csproj.CopyComplete
